@@ -85,6 +85,15 @@ COMP-2230-Winter-2026/
 ├── outline/                     # Official course outline and policies
 │   └── COMP2230_course_outline.pdf
 │
+├── java_101_introduction/        # Java programming basics and fundamentals
+│   ├── README.md                 # Introduction overview
+│   ├── basic_syntax/             # Variables, data types, operators
+│   ├── control_flow/             # If-else, loops
+│   ├── methods/                  # Functions and procedures
+│   ├── classes_objects/          # OOP basics
+│   ├── arrays/                   # Fixed-size data structures
+│   └── input_output/             # Console I/O operations
+│
 ├── lectures/                     # Weekly lecture slides & notes
 │   ├── week01_algorithm_analysis/
 │   ├── week02_stacks_generics/
