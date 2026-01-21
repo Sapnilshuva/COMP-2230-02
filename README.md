@@ -14,7 +14,7 @@
 
 ## 📌 Course Overview
 
-This repository serves as the **central hub for all course materials** for **COMP 2230-02**. Since Moodle access is unavailable, all lecture content, lab materials, worksheets, code examples, and announcements will be maintained here on GitHub.
+This repository serves as the **central hub for lab materials** for **COMP 2230-02**. It includes code examples, Java introduction, and lab exercises.
 
 Students are expected to regularly check this repository for updates.
 
@@ -94,20 +94,6 @@ COMP-2230-Winter-2026/
 │   ├── arrays/                   # Fixed-size data structures
 │   └── input_output/             # Console I/O operations
 │
-├── lectures/                     # Weekly lecture slides & notes
-│   ├── week01_algorithm_analysis/
-│   ├── week02_stacks_generics/
-│   ├── week03_linked_structures/
-│   ├── week04_queues/
-│   ├── week05_lists/
-│   ├── week07_searching_sorting_intro/
-│   ├── week08_sorting_algorithms/
-│   ├── week09_trees_bst/
-│   ├── week10_heaps_priority_queues/
-│   ├── week12_hashing/
-│   ├── week13_sets_maps_graphs/
-│   └── review_final_exam/
-│
 ├── labs/                         # Weekly lab exercises
 │   ├── lab01_big_o_analysis/
 │   ├── lab02_stacks/
@@ -121,18 +107,6 @@ COMP-2230-Winter-2026/
 │   ├── lab10_hash_tables/
 │   └── lab11_graphs/
 │
-├── worksheets/                   # Weekly worksheets (PDF / Markdown)
-│   ├── worksheet01_week01/
-│   ├── worksheet02_week02/
-│   ├── worksheet03_week03/
-│   ├── worksheet04_week05/
-│   ├── worksheet05_week07/
-│   ├── worksheet06_week08/
-│   ├── worksheet07_week09/
-│   ├── worksheet08_week10/
-│   ├── worksheet09_week12/
-│   └── worksheet10_week13/
-│
 ├── code-examples/                # Reference Java implementations
 │   ├── stacks/
 │   ├── queues/
@@ -144,19 +118,16 @@ COMP-2230-Winter-2026/
 │   ├── hashing/
 │   └── graphs/
 │
-├── exams/                        # Exam info and review material
-│   ├── midterm1_review/
-│   ├── midterm2_review/
-│   └── final_exam_review/
+├── midterm1_review/              # Midterm 1 review material
+├── midterm2_review/              # Midterm 2 review material
+├── final_exam_review/             # Final exam review material
 │
 ├── industry-usecase/             # Industry case study materials
 │   └── data_structures_case_study.md
 │
-├── tools/                        # Setup guides
-│   ├── github_codespaces_setup.md
-│   └── java_environment_setup.md
-│
-└── announcements/                # Course announcements and updates
+└── tools/                        # Setup guides
+    ├── github_codespaces_setup.md
+    └── java_environment_setup.md
 ```
 
 ---
