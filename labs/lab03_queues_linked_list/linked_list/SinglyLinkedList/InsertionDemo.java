@@ -71,8 +71,8 @@ public class InsertionDemo {
     public static void main(String[] args) {
         InsertionDemo demo = new InsertionDemo();
         demo.insertBeginning(1);
-        demo.insertEnd(3);
-        demo.insertAfterPosition(1, 2);
+        demo.insertEnd(9);
+        demo.insertAfterPosition(1, 3);
         demo.display();  // Output: List: 1 -> 2 -> 3 -> NULL
     }
 }
